@@ -67,7 +67,7 @@ And if you want to get really crazy, even tables:
   return (
     <div className="App">
       <header className="App-header">
-        <div className="toolbar"><i class="fa fa-free-code-camp" title="no-stack-dub-sack"></i>Editor<i class="fa fa-arrows-alt"></i></div>
+        <div className="toolbar">Editor</div>
         <textarea id="textArea" name="content" value={state.content} onChange={handleChange} placeholder="Type Here">
        
         </textarea>
