@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import * as marked from "https://cdn.skypack.dev/marked@4.0.0";
+import * as marked from 'marked';
 import './App.css';
 
 function App() {
